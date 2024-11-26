@@ -1,0 +1,4 @@
+.small-image {
+    width: 50%; /* Or any desired percentage */
+    max-width: 400px; /* Limit the width */
+}
