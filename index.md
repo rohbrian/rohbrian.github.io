@@ -1,7 +1,6 @@
 ---
 layout: default
-title: Welcome
+title: Kyunggeun Roh (Brian)
 ---
-
-# Hello, World!
-Welcome to my personal website which will be sharing my previous work related to Sign Language Processing and Graph Generation.
+![Alt Text](images/kgroh.jpg)
+I am a research intern in LG AI 
