@@ -1,8 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+<body>
+    <!-- Navigation Bar -->
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="about.html">About</a> |
+        <a href="projects.html">Projects</a>
+    </nav>
 
-<link rel="stylesheet" href="/assets/css/style.css">
+    <!-- Main Content -->
+    <main>
+        {{ content }}
+    </main>
 
-<nav>
-  <a href="index.md">Home</a> |
-  <a href="about.md">About</a> |
-  <a href="projects.md">Projects</a>
-</nav>
+    <!-- Footer (Optional) -->
+    <footer>
+        <p>&copy; 2024 My Website</p>
+    </footer>
+</body>
+</html>
