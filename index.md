@@ -2,7 +2,7 @@
 layout: default
 title: Kyunggeun Roh (Brian)
 ---
-[About Me](about.html)
+[About Me](about.md)
 
 ![Alt Text](image/kgroh.jpg)
 
